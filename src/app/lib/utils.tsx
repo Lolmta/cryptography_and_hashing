@@ -1,0 +1,1 @@
+const frequencyAnalysis = (text: string) => {};
